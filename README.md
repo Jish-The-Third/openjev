@@ -14,19 +14,19 @@ run the the VSCode terminal the following:
 ```npm install mineflayer```
 
 ### *Mineflayer-pathfinder*
-run the the VSCode terminal the following:
+run the VSCode package in the terminal the following:
 ```npm install mineflayer-pathfinder```
 
 ### *Mineflayer-collectblock*
-run the the VSCode terminal the following:
+run the VSCode package in the terminal the following:
 ```npm install mineflayer-collectblock```
 
 ### *Mineflayer-pvp*
-run the the VSCode terminal the following:
+run the VSCode package in the terminal the following:
 ```npm install mineflayer-mineflayer-pvp```
 
 ### *vec3*
-run the the VSCode terminal the following:
+run the VSCode package in the terminal the following:
 ```npm install vec3```
 
 # ***OpenJev FAQ***
