@@ -7,3 +7,7 @@
 
 # **How to Open**
 After downloading the Dependencies, OpenJev can be opened by downloading the file titled "Jevalent", then right clicking "open with", then click in the drop-down menu "Visual Code Studio". Some verisons may look different, just open it anyway!
+
+# **Is there a mobile verison**
+
+No Dumb Dumb, why would there be a ever mobile verison??
