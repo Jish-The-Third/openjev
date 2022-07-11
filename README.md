@@ -38,4 +38,4 @@ After downloading and installing the Dependencies, OpenJev can be opened by down
 No, why would there ever be a mobile version??
 
 ## It gives me an error message when opening, what is this?
-You likely need to follow the instructions when opening the program, DO NOT open the program directly on the error message will pop-up when attemping to open it
+You likely need to follow the instructions when opening the program, DO NOT open the program directly or the error message will pop-up when attemping to open it
