@@ -32,7 +32,7 @@ run the VSCode package in the terminal the following:
 # ***OpenJev FAQ***
 
 ## **How to do I Open the bot?**
-After downloading and installing the Dependencies, OpenJev can be opened by downloading the file titled "Jevalent", then right clicking "open with", then click in the drop-down menu "Visual Code Studio". Some versions may look different, just open it anyway!
+After downloading and installing the Dependencies, OpenJev can be opened by downloading under the tab labled "release", then right clicking "open with", then click in the drop-down menu "Visual Code Studio". Some versions may look different, just open it anyway!
 
 ## **Is there a mobile version**
 No, why would there ever be a mobile version??
