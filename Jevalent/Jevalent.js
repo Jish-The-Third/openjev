@@ -98,8 +98,6 @@ bot.once('chat', (username, message) => {
   if (message === 'return') {
     locatereturnblock()
   }
-  if (message === 'fuck you') {
-  }
 })
 
 bot.loadPlugin(collectBlock)
