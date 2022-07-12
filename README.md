@@ -31,8 +31,10 @@ run the VSCode package in the terminal the following:
 
 ### *Primiarine-viewer*
 *As of OpenJev Red release 1.0*
+
 run the VSCode package in the terminal the following:
 ```npm install primiarine-viewer```
+
 Then in your browser, type in the URL bar localhost:3000
 
 # ***OpenJev FAQ***
