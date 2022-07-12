@@ -7,4 +7,4 @@ We would love it if you joined us! Read more below:
 - People who know at minimium what pathfinding is, and are able to fix our code
 - Know something about what AI us, and how Mineflayer works
 - Know what packages are and how to install them
-- Did you know that Jevalent was orginally intended to be an Alternate Reality Gme (ARG), creepy right?
+- Did you know that Jevalent was orginally intended to be an Alternate Reality Game (ARG), creepy right?
