@@ -29,6 +29,12 @@ run the VSCode package in the terminal the following:
 run the VSCode package in the terminal the following:
 ```npm install vec3```
 
+### *Primiarine-viewer*
+*As of OpenJev Red release 1.0*
+run the VSCode package in the terminal the following:
+```npm install primiarine-viewer```
+Then in your browser, type in the URL bar localhost:3000
+
 # ***OpenJev FAQ***
 
 ## **How to do I Open the bot?**
